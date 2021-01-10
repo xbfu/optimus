@@ -1,4 +1,4 @@
-To install hdfs on a new node:
+To install hdfs on a new node:<br/>
 (1) add the node to the slaves file;<br/>
 (1) install java-oracle-8 on the new node (https://askubuntu.com/questions/521145/how-to-install-oracle-java-on-ubuntu-14-04);<br/>
 (2) zip /usr/local/hadoop on the master node and copy it to the new node ( /usr/local/hadoop.tar    cmd:tar zcvf hadoop.tar /usr/local/hadoop);<br/>
